@@ -6,6 +6,7 @@ This client is a marketing agenecy, Horiseon, that wants their codebase to meet 
 
 ## Client Acceptance Criteria
 
+/* need to add a screenshot of finished project 
 <p align="center" >
     <img src="./assets/images/aceptance-criteria.png" alt="Acceptance criteria screenshot"/>
 </p>
