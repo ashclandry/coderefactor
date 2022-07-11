@@ -31,6 +31,12 @@ After that, the proper id was added to the "search engine optimization" link so 
 
 Finally, all of the pictures displayed in the main section, as well as the aside column of the webpage, have alt attributes that adequately describe what the image is showing in case of page breaks and for accessibility purposes. 
 
+## Final submission links:
+
+GitHub Repository - https://github.com/alandry110/coderefactor 
+GitHub Deployed Page - https://alandry110.github.io/coderefactor/Develop/
+
+
 ## This is what my final Horiseon webpage looks like:
 
 ![Screenshot of the Horiseon Home Page](./Develop/assets/images/final-horiseon-home-page%20.png)
