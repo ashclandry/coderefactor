@@ -33,8 +33,8 @@ Finally, all of the pictures displayed in the main section, as well as the aside
 
 ## Final submission links:
 
-GitHub Repository - https://github.com/alandry110/coderefactor 
-GitHub Deployed Page - https://alandry110.github.io/coderefactor/Develop/
+* GitHub Repository - https://github.com/alandry110/coderefactor 
+* GitHub Deployed Page - https://alandry110.github.io/coderefactor/Develop/
 
 
 ## This is what my final Horiseon webpage looks like:
