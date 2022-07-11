@@ -33,6 +33,6 @@ Finally, all of the pictures displayed in the main section, as well as the aside
 
 ## This is what my final Horiseon webpage looks like:
 
-![Screenshot of the Horiseon Home Page](./Develop/assets/images/final-horiseon-home-page.png)
-![Screenshot of the content on the main page](./Develop/assets/images/final-horiseon-content.png)
+![Screenshot of the Horiseon Home Page](./Develop/assets/images/final-horiseon-home-page%20.png)
+![Screenshot of the content on the main page](./Develop/assets/images/final-horiseon-content%20.png)
 ![Screenshot of the footer of the home page](./Develop/assets/images/final-horiseon-footer.png)
