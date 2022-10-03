@@ -22,10 +22,26 @@ Finally, all of the pictures displayed in the main section, as well as the aside
 - [License](#license)
 
 ## User Story
-![Screenshot of user story](/assets/images/userStory.png)
+```md
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 ## Acceptance Criteria
-![Screenshot of user story](/assets/images/userStory.png)
+```md
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
 ### Additional instructions:
 * All navigation links are functioning correctly
